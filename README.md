@@ -1,6 +1,6 @@
 # Dentist Booking System
 
-Dentist Booking System is a web-based application that manages dental center appointments, information and allow patient to book an appointment with many provided options for patients to choose from on the system.
+Dentist Booking System is a web-based application that manages dental center appointments, information and allow patient to book an appointment with many provided options for patients to choose from on the system. In addition to this function, this website can manange service, discount, feedback from patient, branch,...
 
 <p align="center">
 <img src="https://github.com/TrungHieu0107/Dentist-booking-system-java/blob/main/images/homescreen.JPG" style="
